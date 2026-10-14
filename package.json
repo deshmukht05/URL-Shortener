@@ -6,6 +6,7 @@
   "author": "tushar deshmukh",
   "type": "module",
   "main": "app.js",
+  "license" : "ISC",
   "scripts": {
     "dev": "node --watch app.js",
     "start": "node app.js"
