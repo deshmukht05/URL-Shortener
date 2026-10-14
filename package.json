@@ -4,7 +4,7 @@
   "description": "",
   "keywords": [],
   "author": "tushar deshmukh",
-  "type": "commonjs",
+  "type": "module",
   "main": "app.js",
   "scripts": {
     "dev": "node --watch app.js",
