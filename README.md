@@ -64,7 +64,7 @@ url-shortener/
 │
 ├── public/
 │   ├── index.html
-│   └── script.js
+│   ├── script.js
 │   └── style.css
 │
 ├── README.md
