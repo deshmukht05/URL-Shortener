@@ -1,0 +1,13 @@
+{
+  "name": "url-shortener",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "author": "tushar deshmukh",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "dev": "node --watch app.js",
+    "start": "node app.js"
+  }
+}
